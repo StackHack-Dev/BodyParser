@@ -1,0 +1,20 @@
+{
+  "name": "BodyParser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StackHack-Dev/BodyParser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StackHack-Dev/BodyParser/issues"
+  },
+  "homepage": "https://github.com/StackHack-Dev/BodyParser#readme"
+}
